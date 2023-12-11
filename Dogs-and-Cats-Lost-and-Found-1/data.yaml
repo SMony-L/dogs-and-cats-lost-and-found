@@ -1,0 +1,15 @@
+names:
+- cat
+- dog
+nc: 2
+roboflow:
+  license: Public Domain
+  project: dogs-and-cats-lost-and-found
+  url: https://universe.roboflow.com/smonyl/dogs-and-cats-lost-and-found/dataset/1
+  version: 1
+  workspace: smonyl
+test: test/images
+train: train/images
+val: valid/images
+
+
